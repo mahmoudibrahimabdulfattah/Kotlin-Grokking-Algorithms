@@ -1,1 +1,1 @@
-# Koltin-Grokking-Algorithms
+# Koltin Grokking Algorithms
